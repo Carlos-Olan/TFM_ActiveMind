@@ -17,6 +17,5 @@ Este repositorio contiene:
 
 La personalización musical basada en métricas fisiológicas y preferencias individuales permite generar experiencias de bienestar más efectivas, adaptadas al estado emocional y físico de cada usuario. Este proyecto sienta las bases analíticas y metodológicas para el desarrollo futuro de la app ActiveMind.
 
-## 🗂 Estructura del repositorio
 
 
